@@ -1,0 +1,4 @@
+<resources>
+    <dimen name="switchloadinglayout_vertical_margin_top">20dp</dimen>
+    <dimen name="switchoadinglayout_dots_text_size">40sp</dimen>>
+</resources>
