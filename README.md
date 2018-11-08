@@ -4,9 +4,13 @@ loading error empty 状态切换
 开始使用
 
 DefaultLoadingLayout defaultLayout = SwitchLoadingLayout.createDefaultLayout （this, "目标布局");
+
 defaultLayout.onDone(); //完成状态
+
 defaultLayout.onEmpty(); //空状态
+
 defaultLayout.onError();  //错误状态
+
 defaultLayout.onLoading(); //加载中状态
 
 
