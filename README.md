@@ -14,8 +14,11 @@ defaultLayout.onLoading(); //加载中状态
 
 
 How to
+
 To get a Git project into your build:
+
     Step 1. Add the JitPack repository to your build file
+    
        allprojects {
             repositories {
                 ...
