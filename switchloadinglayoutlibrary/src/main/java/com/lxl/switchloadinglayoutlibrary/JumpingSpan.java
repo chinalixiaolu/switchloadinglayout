@@ -1,4 +1,4 @@
-package com.lxl.switchloadinglayout;
+package com.lxl.switchloadinglayoutlibrary;
 
 import android.graphics.Canvas;
 import android.graphics.Paint;

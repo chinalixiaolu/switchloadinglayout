@@ -1,4 +1,4 @@
-package com.lxl.switchloadinglayout;
+package com.lxl.switchloadinglayoutlibrary;
 
 import android.app.Activity;
 import android.view.View;

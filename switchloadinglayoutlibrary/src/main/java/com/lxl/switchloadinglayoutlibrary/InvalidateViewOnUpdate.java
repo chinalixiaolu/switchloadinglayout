@@ -1,4 +1,4 @@
-package com.lxl.switchloadinglayout;
+package com.lxl.switchloadinglayoutlibrary;
 
 import android.animation.ValueAnimator;
 import android.view.View;
